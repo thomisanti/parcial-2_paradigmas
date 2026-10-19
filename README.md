@@ -326,7 +326,6 @@ Luego escribe las consultas indicadas en el README de cada carpeta, siempre term
 
 ## Autores
 
-_Thomas Santiago Guzmán Páez_
+_Thomasa Santiago Guzmán Páez_
 
-
-_Samir Elias_
+_Samir Elias Lorduy Ayus_
